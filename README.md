@@ -6,7 +6,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>Hey folks! I'm Rojan Rai, a React enthusiast who loves turning wild ideas into functional code. I thrive on the thrill of problem-solving and building stuff that just works. When I'm not in the coding zone, catch me sipping coffee and geeking out over the latest tech happenings. Let's dive into some cool projects together! </p>
+    <p>Hey folks! I'm a React enthusiast who loves turning wild ideas into functional code. I thrive on the thrill of problem-solving and building stuff that just works. When I'm not in the coding zone, catch me sipping coffee and geeking out over the latest tech happenings. Let's dive into some cool projects together! </p>
 </div>
 
 <div align="center">
