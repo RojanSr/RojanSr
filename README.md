@@ -23,6 +23,9 @@
     <a href="mailto:rairojan1116@gmail.com" target="_blank">
         <img alt="My Mail URL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
+    <a href="https://monkeytype.com/profile/RojanSr" target="_blank">
+        <img alt="My Mail URL" src="https://img.shields.io/badge/Monkey_Type-RojanSr-%23e2b714">
+    </a>
 </div>
 
 <div align="center">
